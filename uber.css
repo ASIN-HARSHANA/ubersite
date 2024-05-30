@@ -1,0 +1,462 @@
+.left-head{
+    margin-left:83px
+}
+.btn{
+    margin-left: 40px;
+    cursor: pointer;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    border-radius: 30px;
+    padding: 10px 12px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255)
+}
+.btn:hover{
+    background-color: rgb(226, 226, 226);
+    color: rgb(0, 0, 0)
+}
+.iconpic{
+    color: #FFFFFF;
+    margin-bottom: 11px;
+    padding-top: 9px
+}
+.btn1{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25px;
+    border-radius: 16px;
+    border-style: none;
+}
+.btn1:hover{
+    background-color:gray
+}
+#go-with-uber{
+    color: #FFFFFF;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 64px;
+    padding-top: 145px;
+    margin-left: 68px
+}
+#request{
+    color: #FFFFFF;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 24px;
+    margin-left:68px;
+    padding-top: 30px
+}
+.box{
+    margin-left:75px
+}
+.second-btn{
+    margin-left: 40px;
+    cursor: pointer;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 47px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center
+}
+.text{
+    padding-left:12px
+}
+.locn-img{
+    margin-left: 451px;
+    font-size: 23px;
+    margin-top: -73px;
+}
+.form1{
+    border-radius: 9px;
+    line-height: 46px;
+    width: 420px;
+    margin-left: 61px
+}
+.form2{
+    border-radius: 9px;
+    line-height: 46px;
+    width: 420px;
+    margin-left: 61px;
+}
+.fourth-btn{
+    margin-left: 61px;
+    cursor: pointer;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 43px;
+    border-radius: 10px;
+    margin-top: 25px
+}
+.text-price{
+    height: 48px;
+    width: 115px
+}
+.image{
+    display: block;
+    cursor: zoom-in;
+    margin-left: 21px;
+    margin-top: 65px
+}
+.imglft{
+    display: block;
+    margin: auto;
+    cursor: zoom-in;
+   
+   
+}
+.img-left{
+    margin-top: 66px;
+    width: 135px
+}
+#msg1{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 64px;
+    margin-top: 106px
+}
+#dismsg{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 24px
+}
+.fifth-btn{
+    background-color: black;
+    cursor: pointer;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 43px;
+    border-radius: 10px;
+    width: 131px
+}
+.strt{
+    color:#FFFFFF;
+}
+.acc{
+    padding-left: 28px;
+    color: #000000;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+#msg2{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 52px;
+    font-weight: 700;
+    line-height: 64px;
+    margin-top: 106px;
+    margin-left:75px
+}
+#dismsg2{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 24px;
+    margin-left:75px
+}
+.strt2{
+    color:#FFFFFF;
+}
+
+.fifth-btn2{
+    background-color: black;
+    cursor: pointer;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 43px;
+    border-radius: 10px;
+    width: 131px;
+    margin-left:75px
+}
+.acc2{
+    padding-left: 28px;
+    color: #000000;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+.img-second{
+    display: block;
+    -webkit-user-select: none;
+    cursor: zoom-in;
+    background-color: hsl(0, 0%, 90%);
+    transition: background-color 300ms;
+    margin-left: 57px;
+    margin-top: 59px;
+}
+.left-two{
+    margin-top: 84px;
+    margin-left: -34px
+}
+.last-img{
+    cursor: zoom-in;
+    background-color: hsl(0, 0%, 90%);
+    transition: background-color 300ms;
+    margin-left: 90px;
+    margin-top: 136px
+}
+#msg3{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 47px;
+    margin-left: 103px;
+    margin-top: 280px;
+
+}
+#dismsg2{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 24px;
+    margin-left: 109px
+}
+#app{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 46px;
+    margin-left: 100px;
+    padding-top: 59px
+}
+.uber-app{
+    background-color: #FFFFFF;
+    height: 183px;
+    width: 527px;
+    float: left;
+    margin-left: 99px;
+    display:flex;
+    flex-direction: row
+}
+.qr1{
+    
+    background-color: hsl(0, 0%, 90%);
+    margin-left: 21px;
+    margin-top: 18px
+}
+.dwld-scan{
+    display: flex;
+    flex-direction: column
+}
+#dwnld1{
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    color: currentColor;
+    width: 100%;
+    margin-top: 62px;
+    margin-left: 23px
+}
+.scn1{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    line-height: 24px;
+    margin-left: 24px;
+    margin-top: -9px
+}
+.rt-arw{
+    color: #000000;
+    width: 24px;
+    margin-left: 25px;
+}
+.uber-app2{
+    background-color: #FFFFFF;
+    height: 183px;
+    width: 527px;
+    float: left;
+    margin-left: 99px;
+    display:flex;
+    flex-direction: row;
+    margin-top: 116px
+}
+#uber2{
+    font-size: 24px;
+    color: #FFFFFF;
+    font-family: UberMove, UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight:400;
+    letter-spacing: -1.3px;
+    cursor: pointer;
+    padding-top: 89px
+}
+#hlp-cntr{
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: inherit;
+    font-weight: 400;
+    line-height: 1;
+    color: #FFFFFF;
+    padding-top: 34px
+}
+.company{
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 62px
+}
+.products{
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 66px
+}
+.global{
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 66px
+}
+.travel{
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-top: 66px
+}
+.xicon{
+    margin-left: 50px
+}
+.utubeicon{
+    margin-left: 50px
+}
+.lnkdnicon{
+    margin-left: 50px
+}
+.instaicon{
+    margin-left:50px
+}
+.fourth-btnn{
+  background-color:black;
+  color:#FFFFFF;
+  border:none
+}
+.plystr{
+    width: 122px;
+    margin-left: 98px;
+    margin-top: 51px
+}
+.aplstr{
+    width: 122px;
+    margin-left: 6px;
+    margin-top: 50px;
+}
+@media screen and (max-width:750px){
+    #go-with-uber{
+        margin:0px
+    }
+}
+@media screen and (max-width:750px){
+    #request{
+        margin:0px
+    }
+}
+@media screen and (max-width:750px){
+    .form1{
+        margin:0
+    }
+}
+@media screen and (max-width:750px){
+    .locn-img{
+        margin-left:390px
+    }
+}
+@media screen and (max-width:750px){
+    .form2{
+        margin:0px
+    }
+}
+@media screen and (max-width:750px){
+    .fourth-btn{
+        margin-left:50px;
+        margin-top:12px
+    }
+}
+@media screen and (max-width:750px){
+    #msg2{
+    margin-left:0px;
+    }
+}
+@media screen and (max-width:750px){
+    .image{
+    margin:0px;
+    }
+}
+@media screen and (max-width:750px){
+    .acc{
+    padding-left:0px;
+    }
+}
+@media screen and (max-width:750px){
+    #dismsg2{
+    margin-left:0px
+    }
+}
+@media screen and (max-width:750px){
+    .img-second{
+        margin:0px
+    }
+}
+@media screen and (max-width:750px){
+    .last-img{
+        margin-left:0px
+    }
+}
+@media screen and (max-width:750px){
+    #msg3{
+        margin-left:0px
+    }
+}
+@media screen and (max-width:750px){
+    #app{
+        margin-left:0px
+    }
+}
+@media screen and (max-width:750px){
+    .uber-app{
+        margin-left:0px
+    }
+}
+@media screen and (max-width:750px){
+    .uber-app2{
+        margin-left:0px
+    }
+}
+@media screen and (max-width:760px){
+    #msg2{
+        margin-left:0px
+    }
+}
+@media screen and (max-width:760px){
+    #dismsg2{
+        margin-left:0px
+    }
+}
+@media screen and (max-width:760px){
+    .last-img{
+        margin-left:0px
+    }
+}
+@media screen and (max-width:760px){
+    .img-second{
+        margin:0px
+    }
+}
+@media screen and (max-width:760px){
+    #msg3{
+        margin-left:0px
+    }
+}
